@@ -1,0 +1,67 @@
+/* estilização do titulo*/
+h1{
+    font-size: 50px;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-line: underline;
+    text-decoration-thickness: initial;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+    color: #fff;
+    padding: 3%;
+}
+
+/* Estilização do corpo da pagina*/
+body {background-color: #00cdd4;
+    font: 'Times New Roman', Times, serif;
+    line-height: 1.6;
+    display: block;
+    margin-top: 8px;
+    margin-right: 8px;
+    margin-bottom: 8px;
+    margin-left: 8px;
+    padding: 0;
+    
+}
+
+img {
+    text-align: center;
+}
+/* estilização do cabeçalho */
+header {
+    background: #11114e;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+/* estilização do menu de navegação */
+nav ul {
+    list-style: none;
+    padding: 20px;
+    text-align: center;
+    background: #000000;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+    font-size: 20px;
+}
+
+nav ul li a {
+    color: #fafafa;
+    text-decoration: none;
+    padding: 5px 10px;
+    background: #000000;
+    border-radius: 5px;
+}
+
+
+section {
+    padding: 20px;
+    margin: 20px 0;
+    background: #010107;
+    border-radius: 5px;
+}
+
